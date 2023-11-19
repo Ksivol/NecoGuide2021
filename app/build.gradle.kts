@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.ksivol_project.necoguide2021"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.ksivol_project.necoguide2021"
